@@ -1,6 +1,4 @@
-Neeche **complete immersive, professional, GitHub-ready README.md** de raha hoon — seedha copy-paste kar sakta hai.
 
----
 
 # 🌟 **AI Image Enhancer — Super Resolution & Image Quality Booster**
 
