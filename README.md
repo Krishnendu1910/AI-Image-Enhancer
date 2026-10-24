@@ -1,7 +1,6 @@
 <!-- ═════════════════════ HERO ═════════════════════ -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/AI-IMAGE%20ENHANCER-6D28D9?style=for-the-badge&labelColor=111827" alt="AI Image Enhancer" />
 
 # ✨ AI Image Enhancer
 
