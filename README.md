@@ -1,6 +1,7 @@
 <!-- ═════════════════════ HERO ═════════════════════ -->
 <div align="center">
 
+<img src="https://img.shields.io/badge/AI-IMAGE%20ENHANCER-6D28D9?style=for-the-badge&labelColor=111827" alt="AI Image Enhancer" />
 
 # ✨ AI Image Enhancer
 
@@ -25,6 +26,14 @@ A React-powered interface for uploading an image, requesting AI image scaling th
 </div>
 
 ---
+
+## 🖥️ Application Preview
+
+<p align="center">
+  <img src="docs/images/ai-image-enhancer-preview.png" alt="AI Image Enhancer application showing the image upload area and original/enhanced image preview panels" width="100%" />
+</p>
+
+<p align="center"><em>The current interface: upload an image and view the original and enhanced result side by side.</em></p>
 
 ## 🖼️ The Idea
 
